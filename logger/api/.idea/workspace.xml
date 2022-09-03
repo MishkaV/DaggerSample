@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51469ad6-c5b9-4951-88ad-eebb572e7656" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../api_core/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../api_core/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_core/src/main/kotlin/ru/sberdevices/apkhub/logger/Api.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_core/src/main/kotlin/ru/sberdevices/apkhub/logger/ApiHelpers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_core/src/main/kotlin/ru/sberdevices/apkhub/logger/ApiKey.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_core/src/main/kotlin/ru/sberdevices/apkhub/logger/ApiRegistry.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_core/src/main/kotlin/ru/sberdevices/apkhub/logger/ApiResolver.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/io/mishkav/daggersample/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/java/io/mishkav/daggersample/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/src/main/java/io/mishkav/daggersample/di/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/src/main/java/io/mishkav/daggersample/di/AppComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/sberdevices/apkhub/logger/di/LoggerApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../impl/src/main/kotlin/ru/sberdevices/apkhub/logger/LoggerImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../impl/src/main/kotlin/ru/sberdevices/apkhub/logger/LoggerImpl.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2EG2b6DmB3MEAuS5iV0P8MoyUR3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51469ad6-c5b9-4951-88ad-eebb572e7656" name="Changes" comment="" />
+      <created>1662207673435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662207673435</updated>
+    </task>
+    <servers />
+  </component>
+</project>
